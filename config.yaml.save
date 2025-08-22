@@ -1,0 +1,9 @@
+baseURL: 'https://aiflowkit.xyz/'
+title: 'AIFlowKit'
+description: 'Master Your Productivity with AI-Powered Tools'
+theme: blowfish
+
+params:
+  description: 'Reviews and guides on the best AI tools for personal productivity.'
+  author: 'Your Name'
+  colorScheme: 'auto'

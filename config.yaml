@@ -1,0 +1,18 @@
+baseURL: 'https://aiflowkit.xyz/'
+title: 'AIFlowKit'
+description: 'Master Your Productivity with AI-Powered Tools'
+theme: blowfish
+
+params:
+  description: 'Reviews and guides on the best AI tools for personal productivity.'
+  author:
+    name: aiflowkit  # Change this to your actual name or brand name
+  colorScheme: 'auto'
+  # Enable built-in SEO features
+  seo:
+    useOgImages: true
+  # Enable built-in AdSense support
+  ads:
+    google:
+      enable: true
+      # You will add your AdSense ID here later: publisherId: 'your-adsense-id'
