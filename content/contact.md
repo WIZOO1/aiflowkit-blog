@@ -9,4 +9,4 @@ layout: single
 
 We value your feedback, suggestions, and questions. The best way to reach us is via email.
 
-**Email:** wardbenali1@gmail.com 
+**Email:** your-email@domain.com

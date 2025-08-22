@@ -1,4 +1,4 @@
---
+---
 title: "Privacy Policy"
 date: 2024-08-22T14:30:00Z
 draft: false
@@ -23,4 +23,4 @@ You have the right to access, update, or delete the information we have on you.
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at wardbenali1@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at your-email@domain.com.
